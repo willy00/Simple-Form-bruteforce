@@ -9,9 +9,9 @@ Supported input types:
 * password
 * username
 
-#Installation
+# Installation
 
-##Requirements
+## Requirements
 
 * requests
 * selenium
