@@ -19,20 +19,20 @@ Supported input types:
 
 ## Running this on Debian based systems
 
-...
+```
 
 sudo apt-get install python3-pip python3 git
 git clone https://github.com/willy00/Web-Flooder
 cd Web-Flooder
 python3 -m pip install -r requirements.txt
 python3 webflooder.py
-...
+```
 
 ## Running this on a Windows system
 Download the zip folder and extract it
 Open comand prompt in the folder
-...
+```
 
 (path to python3) -m pip install -r requirements.txt
 (path to python3) webflooder.py
-...
+```
