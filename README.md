@@ -34,3 +34,5 @@ Open comand prompt in the folder
 (path to python3) -m pip install -r requirements.txt
 (path to python3) webflooder.py
 ```
+## Disclaimer
+I am not to be held responsible for any misuse of this tool.
