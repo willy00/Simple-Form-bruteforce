@@ -1,4 +1,4 @@
-# Web Form Flooder
+# Web Form brute forcer
 ![Latest version](https://img.shields.io/badge/-v1.0-brightgreen.svg)
 
 This is a program that uses the selenium webdriver to automatically fill in forms. It identifies the input fields using the CSS selector provided by the user and will automatically fill in data based on the input type. Username are generated from a name list provided by the user.
