@@ -35,4 +35,4 @@ Open comand prompt in the folder
 (path to python3) webflooder.py
 ```
 ## Disclaimer
-I am not to be held responsible for any misuse of this tool.
+I am not to be held responsible for any misuse of this tool, this is made for educational purposes only.
